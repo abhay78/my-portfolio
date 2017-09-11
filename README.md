@@ -1,2 +1,2 @@
 # my-portfolio
-Professional Portfolio
+Professional Portfolio uses AWS Lambda and React
