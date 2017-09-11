@@ -2,5 +2,5 @@
 Professional Portfolio uses AWS Lambda and React
 
 ## Technologies Used
-GitHub
+Git and GitHub
 SSH
