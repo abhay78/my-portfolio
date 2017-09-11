@@ -5,3 +5,7 @@ Professional Portfolio uses AWS Lambda and React
 Git and GitHub
 SSH
 AWS EC2, Lambda
+HTML
+CSS
+FontAwesome
+Google Fonts
