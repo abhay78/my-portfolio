@@ -1,0 +1,12 @@
+version: 0.1
+phases:
+  build:
+    command:
+      - echo noop
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - Abhay Rajan Resume.pdf
+    - styles/main.css
+    - images/*
